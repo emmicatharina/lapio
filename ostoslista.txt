@@ -25,4 +25,4 @@ sokeria
 silmälasit
 aurinkolasit
 kiikarit
-
+tuulilasinpyyhkimet
