@@ -27,4 +27,4 @@ aurinkolasit
 kiikarit
 tuulilasinpyyhkimet
 kiulupuukko
-Hälsningar från datorn
+Hälsningar från datorn samt från GitHub
