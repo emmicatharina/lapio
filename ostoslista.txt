@@ -26,4 +26,4 @@ silmälasit
 aurinkolasit
 kiikarit
 tuulilasinpyyhkimet
-kiulu
+kiulupuukko
